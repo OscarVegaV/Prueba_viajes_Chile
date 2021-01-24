@@ -2,10 +2,16 @@
     border-top: 3px solid rgb(69, 116, 177);
 };
 body {
-    font-family: relaway, sans-serif;    
-    
+    font-family: 'relaway', sans-serif, arial;    
 }
 .fabicon {
     text-align-last: right;
-    word-spacing: 3rem;   
+    word-spacing: 3rem;        
+}
+section {    
+    background-color: black;
+    
+}  
+.parrafo {
+    color: white;
 }
