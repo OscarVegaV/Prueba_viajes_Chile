@@ -1,4 +1,7 @@
 .barra {
     border-top: 3px solid rgb(69, 116, 177);
 };
-
+body {
+    font-family: relaway, sans-serif;
+    
+}
