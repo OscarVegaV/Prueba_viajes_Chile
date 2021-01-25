@@ -6,7 +6,7 @@ body {
 }
 .fabicon {
     text-align-last: right;
-    word-spacing: 3rem;        
+    word-spacing: 3rem;     
 }
 section {    
     background-color: black;
@@ -14,4 +14,7 @@ section {
 }  
 .parrafo {
     color: white;
+}
+.altura {    
+	height:169.33px;
 }

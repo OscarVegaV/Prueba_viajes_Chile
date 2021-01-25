@@ -10,9 +10,12 @@ $(document).ready(function(){
         })
       }
     });
+    /* tooltio en contacto */
     $(function () {
       $('[data-toggle="tooltip"]').tooltip()
     })
+    /*  doble click ocultar 1er favicon*/
+    $("#ocultar").dblclick(function(){    
+      $(this).hide()
+    });
   })
-  
-  
